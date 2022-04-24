@@ -1,0 +1,8 @@
+.idea/
+.lsp/
+.clj-kondo/
+
+*.o
+*.hi
+
+target/
