@@ -6,3 +6,6 @@ solution n = sum $ filter divBy3or5 [1 .. n - 1]
 
 result :: Int
 result = solution 1000
+
+main :: IO ()
+main = print result

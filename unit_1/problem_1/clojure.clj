@@ -6,3 +6,5 @@
        (reduce +)))
 
 (def result (solution 1000))
+
+(println result)
